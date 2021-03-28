@@ -4,7 +4,7 @@ FitnessHub se trata de un programa con el que el usuario podrá getionar su gimn
 ## Integrantes del equipo
 
 Eduardo Viejo Campos. ID 5614867                                                                                                                                                   
-Sergio Rodriguez Rodriguez. ID SergioRodrigu                                                                                                                                       
+Sergio Rodriguez Rodriguez. IDs SergioRodrigu y SergioR02                                                                                                                                      
 Jesus Rinaldi Rodriguez. ID JesusRinaldi
 
 ## Objetivos del trabajo
