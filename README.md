@@ -19,3 +19,10 @@ Para dar de baja a un socio, se solicita su dni y si el socio está registrado, 
 Se pide un dni y se busca al socio entre los datos registrados por la aplicación. Si se encuentra, se muestran en pantalla los datos del socio, y  a continuación se muestra un menú repetitivo que permite que el usuario actualice el/los dato/s que desee. Si no se encuentra el dni se mostrará un mensaje de ERROR.
 ## Objetivo 4: (consulta de los datos)
 Se pide un dni y se busca al socio entre los datos registrados por la aplicación. Si se encuentra, se muestran en pantalla los datos del socio, en caso contrario, se mostrará un mensaje de ERROR.
+
+
+#include <stdio.h>
+int main ()
+{
+printf ("Hello World, my name is XXXXX!\n");
+}
