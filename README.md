@@ -21,8 +21,3 @@ Se pide un dni y se busca al socio entre los datos registrados por la aplicació
 Se pide un dni y se busca al socio entre los datos registrados por la aplicación. Si se encuentra, se muestran en pantalla los datos del socio, en caso contrario, se mostrará un mensaje de ERROR.
 
 
-#include <stdio.h>
-int main ()
-{
-printf ("Hello World, my name is XXXXX!\n");
-}
